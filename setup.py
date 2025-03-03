@@ -17,6 +17,6 @@ setup(
     python_requires=">=3.7",
     author="Amit Chaudhary",
     author_email="meamitkc@gmail.com",
-    url="https://github.com/amitness/colab-connect",
+    url="https://github.com/ysnbulut/colab-connect",
     packages=find_packages(),
 )
